@@ -1,6 +1,6 @@
 exports = module.exports = {
 	server: {
-		port: 8080,
+		port: process.env.PORT || 5000,
 		host: '0.0.0.0',
 		hellomsg: 'welcome to online casino',
 		server: 20141201,
