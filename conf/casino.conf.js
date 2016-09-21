@@ -1,14 +1,14 @@
 exports = module.exports = {
 	server: {
-		port: 7000,
+		port: 80,
 		host: '0.0.0.0',
 		hellomsg: 'welcome to online casino',
 		server: 20141201,
 		client_req: 20141130
 	},
 	redis: {
-		host: 'localhost',
-		port: 6379,
+		host: 'ec2-54-163-236-211.compute-1.amazonaws.com',
+		port: 33179,
 		passwd: null
 	},
 	new_user : {
