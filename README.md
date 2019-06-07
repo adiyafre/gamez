@@ -12,11 +12,10 @@ An online poker game server powered by redis, node.js and socket.io
 ![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/2_14.png)
   
 Game rules supported:
-- [x] Chat Room (聊天室)
-- [x] Jinhua (诈金花/三张牌)
-- [x] Texas Holdem (德州扑克)
-- [ ] Fight Landlord (斗地主)
-- [ ] Blackjack (21点)
+- [x] Chat Room 
+- [x] Texas Holdem 
+- [ ] Fight Landlord 
+- [ ] Blackjack
 
 Features: 
 - [x] Cross-platform: powered by node.js, easy to deploy on various platforms.
